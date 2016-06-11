@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<shape>-->
+        <!--<solid android:color="@color/color_detail_title"/>-->
+        <!--<padding android:left="@dimen/abc_dialog_padding_material" android:top="@dimen/abc_dialog_padding_material" android:right="@dimen/abc_dialog_padding_material" android:bottom="@dimen/abc_dialog_padding_material" />-->
+    <!--</shape>-->
+    <item>
+        <shape  android:shape="rectangle">
+
+            <solid android:color="#d8d8d8" />
+            <corners android:radius="0dp" />
+
+        </shape>
+    </item>
+
+    <!-- White Top color -->
+    <item android:bottom="10px">
+
+        <shape  android:shape="rectangle">
+
+            <solid android:color="@color/color_detail_title"/>
+            <padding android:left="@dimen/abc_dialog_padding_material" android:top="@dimen/abc_dialog_padding_material" android:right="@dimen/abc_dialog_padding_material" android:bottom="@dimen/abc_dialog_padding_material" />
+        </shape>
+
+    </item>
+</layer-list>

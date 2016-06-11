@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.avinashdavid.popularmovies.DetailActivity">
+    <item android:id="@+id/action_reviews" android:title="@string/page_title_reviews"
+          android:orderInCategory="101" app:showAsAction="never"/>
+    <item android:id="@+id/action_trailers" android:title="@string/page_title_trailers"
+          android:orderInCategory="102" app:showAsAction="never"/>
+</menu>
