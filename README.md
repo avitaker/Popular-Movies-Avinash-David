@@ -1,5 +1,5 @@
 # Popular-Movies-Avinash-David
-Solution to Popular Movies project for Udacity Android nanodegree. I built this app from scratch and added features like responsive UI, movie review sorting options and local storage of favorite reviews.
+Solution to Popular Movies project for Udacity Android nanodegree. I built this app from scratch and added features like responsive UI, movie review sorting options and local storage of favorite reviews
 
 ## Features
 - View popular movie reviews, sort reviews by most popular, highest rated or most rated with adjustable levels of popularity.
